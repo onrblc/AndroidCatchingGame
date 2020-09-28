@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+include ':app'
+=======
+include ':app'
+>>>>>>> 906befd... First Upload
+rootProject.name = "AtlHoca_;KennyiYakalaJava"
